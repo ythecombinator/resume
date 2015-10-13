@@ -112,6 +112,36 @@ My passions include the design and implementation of full stack projects, open s
 
   > Advanced level of proficiency.
 
+## Education
+
+### Ongoing Courses
+
+**Computer Technician** @ *Instituto Federal de Educação, Ciência e Tecnologia do Ceará*
+
+*2013* - *2017*
+
+> Student at a technical course in the area of Information Technology (IT) integrated to the high school, which aims training professionals to work directly with computer systems, including the efficient use, programming and support for equipment use.
+
+**English Language Basic Course** @ *Casa de Cultura Britânica (CCB) da Universidade Federal do Ceará (UFC)*
+
+*2014* - *2016*
+
+> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre-intermediate, intermediate).
+
+### Finished Courses
+
+**Teens Level Course** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
+
+*2010* - *2012*
+
+> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre-intermediate, intermediate).
+
+**Introductory Course in Robotics** @ *Instituto Brasileiro de Educação Profissional (IBEPRO)*
+
+*2012* - *2012*
+
+> Student at a basic Robotics course which introduces many fundamental concepts of digital electronics.
+
 ## Recognitions and Awards
 
 **2nd place** @ *III Startup Weekend Fortaleza*
@@ -165,36 +195,6 @@ This project is a simple *image-free* Christmas tree to say *Merry Christmas!* t
 #### [Happy New Year](https://github.com/mabrasil/happynewyear)
 
 A simple page to celebrate new year’s coming in a special way with my relatives and friends.
-
-## Education
-
-### Ongoing Courses
-
-**Computer Technician** @ *Instituto Federal de Educação, Ciência e Tecnologia do Ceará*
-
-*2013* - *2017*
-
-> Student at a technical course in the area of Information Technology (IT) integrated to the high school, which aims training professionals to work directly with computer systems, including the efficient use, programming and support for equipment use.
-
-**English Language Basic Course** @ *Casa de Cultura Britânica (CCB) da Universidade Federal do Ceará (UFC)*
-
-*2014* - *2016*
-
-> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre-intermediate, intermediate).
-
-### Finished Courses
-
-**Teens Level Course** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
-
-*2010* - *2012*
-
-> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre-intermediate, intermediate).
-
-**Introductory Course in Robotics** @ *Instituto Brasileiro de Educação Profissional (IBEPRO)*
-
-*2012* - *2012*
-
-> Student at a basic Robotics course which introduces many fundamental concepts of digital electronics.
 
 ## Extras
 
