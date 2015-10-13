@@ -111,3 +111,17 @@ My passions include the design and implementation of full stack projects, open s
 - English
 
   > Advanced level of proficiency.
+
+## Recognitions and Awards
+
+**2nd place** @ *III Startup Weekend Fortaleza*
+
+> I worked as a Front-end developer in the project *Chego Lá* which is a solution for monitoring school performance that scored 2nd place in the [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
+
+**2nd place** @ *I Feira de Hardware & Software (FHS) do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)*
+
+> I worked as a Full-Stack developer in the project *WebCampi* which is an innovative academic content sharing network that scored 2nd place in the Software category of an internal competition at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+
+**Top Student** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
+
+> Recognition for the outstanding result in the Teens Course at IBEU-SEDE (2012/2).
