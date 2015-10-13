@@ -195,3 +195,48 @@ A simple page to celebrate new year’s coming in a special way with my relative
 *2012* - *2012*
 
 > Student at a basic Robotics course which introduces many fundamental concepts of digital electronics.
+
+## Extras
+
+### Speaker at:
+
+#### [FLISOL 2015](http://flisolce.org/)
+
+- **Title:** *Uma Introdução a Git & Github*
+- **When:** April, 25
+- **Where:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Fortaleza.
+- **Attendees:** ≈60
+
+#### [3º CocoaHeads Fortaleza](http://www.cocoaheads.com.br/agendas/detalhes/79/)
+
+- **Title:** *Aplicações Híbridas com Ionic*
+- **When:** May, 28
+- **Where:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Fortaleza.
+- **Attendees:** ≈40
+
+#### [IX Pylestras](http://pylestras.org/evento/ix-pylestras/)
+
+- **Title:** *Aventurando-se com metadados: Micro Data e Open Graph*
+- **When:** May, 30
+- **Where:** Universidade de Fortaleza - Unifor.
+- **Attendees:** ≈40
+
+#### [I Ionic Meetup Fortaleza](http://www.meetup.com/pt/Ionic-Ceara/events/224620543/)
+
+- **Title:** *Um projeto mobile open source em duas semanas (ou uma talk sobre como melhorar seu workflow Ionic)*
+- **When:** August, 15
+- **Where:** Universidade de Fortaleza - Unifor.
+- **Attendees:** ≈40
+
+#### [Unidev 2](http://unidevce.github.io/)
+
+- **Title:** *De volta para o futuro: funcional nos dias atuais*
+- **When:** September, 26
+- **Where:** Universidade de Fortaleza - Unifor.
+- **Attendees:** ≈50
+
+### Organizer at:
+
+- [Ionic Meetup Fortaleza](http://ionicbrazil.com/)
+- [Lambda I/O Foundation](https://github.com/lambda-io)
+- [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/)
