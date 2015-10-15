@@ -14,91 +14,103 @@
 
 ## About me
 
-I’m *Matheus Albuquerque* - or *Matheus Brasil*, if you prefer. I'm a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
+I am a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-I started playing with programming at the age of 12 - not actually much ago - and since then I’ve played with a considerable amount of languages, from mainstream ones like Java, C#, Ruby, Python, Brainfuck - yeah, for me it's a mainstream one - and JavaScript, passing by functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+I started playing with programming at the age of 12 - not actually much ago - and since then I have played with a considerable amount of languages, from mainstream ones like Java, C#, Ruby, Python, Brainfuck -  yes, I think it's a mainstream one - and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
 
-As you may know I consider myself a *web alchemist* who's always trying new technologies and specially playing with cool stuff. Nowadays I try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
+I consider myself a *web alchemist* who is always trying new technologies and specially playing with cool stuff. Nowadays I try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
 
 My passions include the full stack design and implementation of projects, open source stuff, indie, electronic & rock music. I also study IT at Instituto Federal do Ceará.
 
-## Knowledge
+## Skills
+
+### Soft Skills
+
+- Proactivity Attitude
+- Problem-Solving Skills
+- Acting as a Team Player who has leadership spirit
+- Time Management Abilities
+- Self-Confidence
+- Ability to Accept and Learn From Criticism
+- Flexibility/Adaptability
+- Working Well Under Pressure
+- Public Speaking
 
 ### Technical Skills
 
-- Front-End Development & Tooling
+#### Front-End Development & Tooling
 
-  - Markup
+- Markup
 
-    - HTML(5) and its APIs
-    - JS Temaplating Engines
+  - HTML(5) and its APIs
+  - JS Temaplating Engines
 
-      > Experience with Jade, Nunjucks, EJS.
+    > Experience with Jade, Nunjucks, EJS.
 
-  - Styles
+- Styles
 
-    - CSS(3)
-    - CSS Preprocessors
+  - CSS(3)
+  - CSS Preprocessors
 
-      > Stylus, Sass, Less.
+    > Stylus, Sass, Less.
 
-   - CSS Frameworks
+  - CSS Frameworks
 
-      > Bootstrap, Foundation.
+    > Bootstrap, Foundation.
 
-  - Responsive Design (Mobile First)
+- Responsive Design (Mobile First)
 
-  - Workflow automation & scaffolding
+- Workflow automation & scaffolding
 
-    >  Grunt, Gulp, NPM (as a build tool), Yeoman.
+  >  Grunt, Gulp, NPM (as a build tool), Yeoman.
 
-  - Javascript Frameworks
+- Javascript Frameworks
 
-    > AngularJS, EmberJS.
+  > AngularJS, EmberJS.
 
-  - Javascript Libraries
+- Javascript Libraries
 
-    > jQuery, zepto, ReactJS etc.
+  > jQuery, zepto, ReactJS etc.
 
-  - Javascript Preprocessors
+- Javascript Preprocessors
 
-    > Coffeescript, Livescript, Typescript.
+  > Coffeescript, Livescript, Typescript.
 
 - Mobile Development
 
   > Hybrid apps Ionic and React Native.
 
-- Back-End Development
+#### Back-End Development
 
-  - Node.js and its frameworks
+- Node.js and its frameworks
 
-    > express.js, koa.js, meteor.js, Derby, ReactJS etc.
+  > express.js, koa.js, meteor.js, Derby, ReactJS etc.
 
-- Database management systems
+#### Database management systems
 
-  - SGBDs
+- SGBDs
 
-    > MySQL, Postgres.
+  > MySQL, Postgres.
 
-  - NoSQL
+- NoSQL
 
-    > MongoDB, LevelDB.
+  > MongoDB, LevelDB.
 
-- Software Versioning
+#### Software Versioning
 
   > Git & social coding via Github
 
-- Software Testing & Devops
+#### Software Testing & Devops
 
-  - TDD & BDD
+- TDD & BDD
 
-  - Javascript Unit Testing
+- Javascript Unit Testing
 
-  - Front-End E2E Testing
+- Front-End E2E Testing
 
-  - Front-End A/B Testing
+- Front-End A/B Testing
 
-  - Continous Integration
+- Continous Integration
 
 ### Languages
 
