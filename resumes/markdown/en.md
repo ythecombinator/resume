@@ -35,8 +35,6 @@ My passions include the full stack design and implementation of projects, open s
 - Time Management Abilities
 - Ability to Accept and Learn From Criticism
 - Flexibility/Adaptability
-- Working Well Under Pressure
-- Self-Confidence
 
 ### Technical Skills
 
