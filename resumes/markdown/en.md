@@ -26,15 +26,17 @@ My passions include the full stack design and implementation of projects, open s
 
 ### Soft Skills
 
-- Proactivity Attitude
 - Problem-Solving Skills
+- Proactivity Attitude
+- Love for Open Source contributing
+- Love for spreading cool technologies
+- Public Speaking
 - Acting as a Team Player who has leadership spirit
 - Time Management Abilities
-- Self-Confidence
 - Ability to Accept and Learn From Criticism
 - Flexibility/Adaptability
 - Working Well Under Pressure
-- Public Speaking
+- Self-Confidence
 
 ### Technical Skills
 
