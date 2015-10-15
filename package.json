@@ -1,0 +1,35 @@
+{
+  "name": "matts-resume",
+  "version": "1.0.0",
+  "description": "My resume in a few formats.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "lsc --no-header -b -c -o ./lib src/",
+    "start": "node lib/index.js",
+    "test": ""
+  },
+  "dependencies": {
+    "github-markdown-css": "^2.0.11",
+    "markdown-pdf": "^5.3.0"
+  },
+  "devDependencies": {
+    "browser-sync": "2.8.0",
+    "livescript": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabrasil/resume.git"
+  },
+  "keywords": [
+    "Resume",
+    "Curriculum",
+    "Markdown",
+    "PDF"
+  ],
+  "author": "Matheus Brasil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mabrasil/resume/issues"
+  },
+  "homepage": "https://github.com/mabrasil/resume#readme"
+}
