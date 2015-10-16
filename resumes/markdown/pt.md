@@ -1,6 +1,6 @@
 # Matheus Albuquerque Brasil
 
-**Location:** Fortaleza, CE - Brazil
+**Localidade:** Fortaleza, CE - Brazil
 
 **Blog:** [matheusbrasil.com](http://matheusbrasil.com)
 
@@ -12,228 +12,232 @@
 
 **Medium:** [Matheus Albuquerque](https://medium.com/@matheusalbuquerque)
 
-## About me
+## Sobre
 
-I’m *Matheus Albuquerque* - or *Matheus Brasil*, if you prefer. I'm a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
+Eu sou um desenvolvedor Full-Stack que vive em [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-I started playing with programming at the age of 12 - not actually much ago - and since then I’ve played with a considerable amount of languages, from mainstream ones like Java, C#, Ruby, Python, Brainfuck - yeah, for me it's a mainstream one - and JavaScript, passing by functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+Comecei a me interessar por programação aos 12 anos - não muito tempo atrás - e, desde então, estudei/experimentei um número considerável de linguagens de programção, indo desde as mais conhecidas, como Java, C#, Ruby, Python, Brainfuck - sim, essa é muito conhecida -, e JavaScript, passando por voltadas ao paradigma funcional - como Haskell, Elixir, Erlang e Clojure - até algumas esotéricas, como Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
 
-As you may know I consider myself a *web alchemist* who's always trying new technologies and specially playing with cool stuff. Nowadays I try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
+Eu me considero um *alquimista da web* que está sempre testando novas tecnologias. Atualmente, tento ser o mais ativo o possível em comunidades locais como [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) entre outras.
 
-My passions include the full stack design and implementation of projects, open source stuff, indie, electronic & rock music. I also study IT at Instituto Federal do Ceará.
+Minhas paixões incluem o design e implementação de projetos Full Stack, projetos de código aberto - e estilos como indie, rock e eletrônica. Eu também sou aluno do curso técnico em informática do Instituto Federal do Ceará.
 
-## Knowledge
+## Habilidades
 
-### Technical Skills
+### Pessoais
 
-- Front-End Development & Tooling
+- Foco em resolver problemas
+- Proatividade
+- Amor por código aberto
+- Amor por compartilhar/disseminar tecnologias
+- Falar em Público
+- Trabalhar em equipe
+- Saber gerenciar o tempo
+- Habilidade de aceitar e aprender com críticas
+- Flixibilidade/Fácil Adaptação
 
-  - Markup
+### Técnicas
 
-    - HTML(5) and its APIs
-    - JS Temaplating Engines
+#### Desenvolvimento e Instrumentação Front-End
 
-      > Experience with Jade, Nunjucks, EJS.
+- Linguagens de Marcação
 
-  - Styles
+  - HTML(5) e suas APIs
+  - Temaplating Engines JavaScript
 
-    - CSS(3)
-    - CSS Preprocessors
+    > Jade, Nunjucks, EJS.
 
-      > Stylus, Sass, Less.
+- Estilização
 
-   - CSS Frameworks
+  - CSS(3)
+  - Preprocessadores CSS
 
-      > Bootstrap, Foundation.
+    > Stylus, Sass, Less.
 
-  - Responsive Design (Mobile First)
+  - Frameworks CSS
 
-  - Workflow automation & scaffolding
+    > Bootstrap, Foundation.
 
-    >  Grunt, Gulp, NPM (as a build tool), Yeoman.
+- Design Responsivo (Mobile-First)
 
-  - Javascript Frameworks
+- Automação
 
-    > AngularJS, EmberJS.
+  > Grunt, Gulp, NPM (as a build tool), Yeoman.
 
-  - Javascript Libraries
+- Frameworks JavaScript
 
-    > jQuery, zepto, ReactJS etc.
+  > AngularJS, EmberJS.
 
-  - Javascript Preprocessors
+- Bibliotecas JavaScript
 
-    > Coffeescript, Livescript, Typescript.
+  > jQuery, zepto, ReactJS etc.
 
-- Mobile Development
+- Preprocessadores JavaScript
 
-  > Hybrid apps Ionic and React Native.
+  > Coffeescript, Livescript, Typescript.
 
-- Back-End Development
+- Desenvolvimento Mobile
 
-  - Node.js and its frameworks
+  > Aplicações Híbridas com Ionic e React Native.
 
-    > express.js, koa.js, meteor.js, Derby, ReactJS etc.
+#### Desenvolvimento Back-End
 
-- Database management systems
+- Node.js e seus frameworks
 
-  - SGBDs
+  > express.js, koa.js, meteor.js, Derby, ReactJS etc.
 
-    > MySQL, Postgres.
+#### Bancos de Dados
 
-  - NoSQL
+- SGBDs
 
-    > MongoDB, LevelDB.
+  > MySQL, Postgres.
 
-- Software Versioning
+- NoSQL
 
-  > Git & social coding via Github
+  > MongoDB, LevelDB.
 
-- Software Testing & Devops
+#### Versionamento de Software
 
-  - TDD & BDD
+  > Git e social coding via Github
 
-  - Javascript Unit Testing
+#### Teste de Sofware e Devops
 
-  - Front-End E2E Testing
+- TDD & BDD
 
-  - Front-End A/B Testing
+- Testes unitários em JavaScript
 
-  - Continous Integration
+- Testes E2E em Front-End
 
-### Languages
+- Testes A/B em Front-End
 
-- Portuguese
+- Integração Contínua
 
-  > Native speaker.
+### Idiomas
+
+- Português
+
+  > Nível nativo.
 
 - English
 
-  > Advanced level of proficiency.
+  > Nível avançado de proficiência.
 
-## Education
+## Educação
 
-### Ongoing Courses
+### Cursos em andamento
 
-**Computer Technician** @ *Instituto Federal de Educação, Ciência e Tecnologia do Ceará*
+**Técnico em Informática** @ *Instituto Federal de Educação, Ciência e Tecnologia do Ceará*
 
 *2013* - *2017*
 
-> Student at a technical course in the area of Information Technology (IT) integrated to the high school, which aims training professionals to work directly with computer systems, including the efficient use, programming and support for equipment use.
+> Aluno do curso técnico integrado ao Ensino Médio na área de Informática (TII) que forma profissionais para atuar diretamente com sistemas de informática, abrangendo a utilização eficiente, a programação e o suporte ao uso de equipamentos.
 
-**English Language Basic Course** @ *Casa de Cultura Britânica (CCB) da Universidade Federal do Ceará (UFC)*
+**Curso Básico de Língua Inglesa** @ *Casa de Cultura Britânica (CCB) da Universidade Federal do Ceará (UFC)*
 
 *2014* - *2016*
 
-> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre-intermediate, intermediate).
+> Aluno do curso da Casa de Cultura Britânica (CCB) que desenvolve de forma integrada as habilidades de ouvir, falar, ler e escrever em nível básico.
 
-### Finished Courses
+### Cursos concluídos
 
 **Teens Level Course** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
 
 *2010* - *2012*
 
-> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre-intermediate, intermediate).
+> Aluno do curso do Instituto Brasil-Estados Unidos no Ceará (IBEU-CE) que desenvolve de forma integrada as habilidades de ouvir, falar, ler e escrever em nível básico.
 
-**Introductory Course in Robotics** @ *Instituto Brasileiro de Educação Profissional (IBEPRO)*
+**Curso Introdutório de Robótica** @ *Instituto Brasileiro de Educação Profissional (IBEPRO)*
 
 *2012* - *2012*
 
-> Student at a basic Robotics course which introduces many fundamental concepts of digital electronics.
+> Aluno em um curso básico de Robótica, que introduz muitos conceitos fundamentais da eletrônica digital.
 
-## Recognitions and Awards
+## Reconhecimentos e Premiações
 
-**2nd place** @ *III Startup Weekend Fortaleza*
+**2º Colocado** @ *III Startup Weekend Fortaleza*
 
-> I worked as a Front-end developer in the project *Chego Lá* which is a solution for monitoring school performance that scored 2nd place in the [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
+> Trabalhei como desenvolvedor Front-End/Mobile no projeto *Chego Lá* que consiste em uma solução de monitoramento de rendimento escolar que ficou em 2º lugar na [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
 
-**2nd place** @ *I Feira de Hardware & Software (FHS) do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)*
+**2º Colocado** @ *I Feira de Hardware & Software (FHS) do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)*
 
-> I worked as a Full-Stack developer in the project *WebCampi* which is an innovative academic content sharing network that scored 2nd place in the Software category of an internal competition at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+> Trabalhei como desenvolvedor Full-Stack no projeto *WebCampi*, que consiste em uma inovadora rede social de compartilhamento de conteúdo acadêmico que ficou em 2º lugar na categoria *Software* em uma feira interna do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
 **Top Student** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
 
-> Recognition for the outstanding result in the Teens Course at IBEU-SEDE (2012/2).
+> Reconhecimento pelo bom desempenho apresentado ao longo do Teens Course no IBEU-SEDE (2012/2).
 
-## Projects
+## Projetos
 
-Some of the projects in which I've already worked.
+Alguns dos projetos em que eu já trabalhei.
 
 #### [Conf App Boilerplate](https://github.com/devevents/conf-app-boilerplate)
 
-Boilerplate of mobile application to help people who wants to organize conferences/events and don't have time enough to create an app with information about the event.
+> Base de código para criação de uma aplicação móvel para ajudar pessoas que precisam organizar conferências/eventos e não têm tempo suficiente para criar tal aplicação com informações do evento.
 
 #### [Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza)
 
-A mobile app with all kinds of information about the biggest Front End event in Ceará, including the venue, speakers, schedule, sponsors, partners etc.
+> Um aplicativo móvel com todos os tipos de informações sobre o maior evento Front End no Ceará, incluindo o local, palestrantes, programação, patrocinadores, parceiros etc.
 
 #### [Lumberpack](https://github.com/mabrasil/lumberpack)
 
-A simple boilerplate to easily bootstrap web projects with a bunch of cool technologies, like Gulp, Jade, Stylus, Livescript etc.
+> Base de código para facilitar a criação de projetos web com uma variedade de tecnologias atuais, como Gulp, Jade, Stylus, Livescript etc.
 
 #### [Conf Boilerplate](https://github.com/mabrasil/conf-boilerplate)
 
-Fork of the original project from BrazilJS [Conf Boilerplate](https://github.com/braziljs/conf-boilerplate) - which aims *"to help those people who wants to organize conferences/events and don't have too much time to create the website of it"* - on which I make a brand new tech stack.
+> Fork do projeto original da BrazilJS, o [Conf Boilerplate](https://github.com/braziljs/conf-boilerplate), que visa a ajudar pessoas que precisam organizar conferências/eventos e não têm tempo suficiente para criar um site para este, no qual eu fiz uma completa reformulação na arquitetura.
 
 #### [xzibit](https://github.com/mabrasil/xzibit)
 
-It's a boilerplate to allow you to easily create modern presentations using Reveal.JS, Gulp, Jade, Stylus and more.
+> Base de código para facilitar a criação de apresentações de slides com uma variedade de tecnologias atuais, como Gulp, Jade, Stylus etc.
 
 #### [Code Icons](https://github.com/mabrasil/codeicons)
 
-Code Icons is an icon set of 138 programming languages, frameworks, and coding tools.
+> Conjunto de ícones de 138 linguagens de programação, frameworks e outras tecnologias.
 
 #### [Milla Theme](https://github.com/mabrasil/milla-theme)
 
-A simple *(and alternative)* dark theme for SublimeText, Textmate and other text editors that uses a flat color palette.
-
-#### [Christmas Tree](https://github.com/mabrasil/christmas-tree)
-
-This project is a simple *image-free* Christmas tree to say *Merry Christmas!* to all my relatives and friends.
-
-#### [Happy New Year](https://github.com/mabrasil/happynewyear)
-
-A simple page to celebrate new year’s coming in a special way with my relatives and friends.
+> Um simples *(e alternativo)* tema para SublimeText, Textmate e outros editores de texto que usa uma paleta de cores flat.
 
 ## Extras
 
-### Speaker at:
+### Palestrante em:
 
 #### [FLISOL 2015](http://flisolce.org/)
 
-- **Title:** *Uma Introdução a Git & Github*
-- **When:** April, 25
-- **Where:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Fortaleza.
-- **Attendees:** ≈60
+- **Título:** *Uma Introdução a Git & Github*
+- **Quando:** 25 de Abril de 2015
+- **Onde:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Fortaleza.
+- **Presentes:** ≈60
 
 #### [3º CocoaHeads Fortaleza](http://www.cocoaheads.com.br/agendas/detalhes/79/)
 
-- **Title:** *Aplicações Híbridas com Ionic*
-- **When:** May, 28
-- **Where:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Fortaleza.
-- **Attendees:** ≈40
+- **Título:** *Aplicações Híbridas com Ionic*
+- **Quando:** 28 de Maio de 2015
+- **Onde:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Fortaleza.
+- **Presentes:** ≈40
 
 #### [IX Pylestras](http://pylestras.org/evento/ix-pylestras/)
 
-- **Title:** *Aventurando-se com metadados: Micro Data e Open Graph*
-- **When:** May, 30
-- **Where:** Universidade de Fortaleza - Unifor.
-- **Attendees:** ≈40
+- **Título:** *Aventurando-se com metadados: Micro Data e Open Graph*
+- **Quando:** 30 de Maio de 2015
+- **Onde:** Universidade de Fortaleza - Unifor.
+- **Presentes:** ≈40
 
 #### [I Ionic Meetup Fortaleza](http://www.meetup.com/pt/Ionic-Ceara/events/224620543/)
 
-- **Title:** *Um projeto mobile open source em duas semanas (ou uma talk sobre como melhorar seu workflow Ionic)*
-- **When:** August, 15
-- **Where:** Universidade de Fortaleza - Unifor.
-- **Attendees:** ≈40
+- **Título:** *Um projeto mobile open source em duas semanas (ou uma talk sobre como melhorar seu workflow Ionic)*
+- **Quando:** 15 de Agosto de 2015
+- **Onde:** Universidade de Fortaleza - Unifor.
+- **Presentes:** ≈40
 
 #### [Unidev 2](http://unidevce.github.io/)
 
-- **Title:** *De volta para o futuro: funcional nos dias atuais*
-- **When:** September, 26
-- **Where:** Universidade de Fortaleza - Unifor.
-- **Attendees:** ≈50
+- **Título:** *De volta para o futuro: funcional nos dias atuais*
+- **Quando:** 26 de Setembro de 2015
+- **Onde:** Universidade de Fortaleza - Unifor.
+- **Presentes:** ≈50
 
-### Organizer at:
+### Organizador em:
 
 - [Ionic Meetup Fortaleza](http://ionicbrazil.com/)
 - [Lambda I/O Foundation](https://github.com/lambda-io)
