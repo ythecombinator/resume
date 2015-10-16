@@ -156,7 +156,7 @@ My passions include the full stack design and implementation of projects, open s
 
 **2nd place** @ *III Startup Weekend Fortaleza*
 
-> I worked as a Front-end developer in the project *Chego Lá* which is a solution for monitoring school performance that scored 2nd place in the [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
+> I worked as a Front-End/Mobile developer in the project *Chego Lá* which is a solution for monitoring school performance that scored 2nd place in the [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
 
 **2nd place** @ *I Feira de Hardware & Software (FHS) do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)*
 
@@ -168,43 +168,35 @@ My passions include the full stack design and implementation of projects, open s
 
 ## Projects
 
-Some of the projects in which I've already worked.
+> Some of the projects in which I've already worked.
 
 #### [Conf App Boilerplate](https://github.com/devevents/conf-app-boilerplate)
 
-Boilerplate of mobile application to help people who wants to organize conferences/events and don't have time enough to create an app with information about the event.
+> Boilerplate of mobile application to help people who wants to organize conferences/events and don't have time enough to create an app with information about the event.
 
 #### [Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza)
 
-A mobile app with all kinds of information about the biggest Front End event in Ceará, including the venue, speakers, schedule, sponsors, partners etc.
+> A mobile app with all kinds of information about the biggest Front End event in Ceará, including the venue, speakers, schedule, sponsors, partners etc.
 
 #### [Lumberpack](https://github.com/mabrasil/lumberpack)
 
-A simple boilerplate to easily bootstrap web projects with a bunch of cool technologies, like Gulp, Jade, Stylus, Livescript etc.
+> A simple boilerplate to easily bootstrap web projects with a bunch of cool technologies, like Gulp, Jade, Stylus, Livescript etc.
 
 #### [Conf Boilerplate](https://github.com/mabrasil/conf-boilerplate)
 
-Fork of the original project from BrazilJS [Conf Boilerplate](https://github.com/braziljs/conf-boilerplate) - which aims *"to help those people who wants to organize conferences/events and don't have too much time to create the website of it"* - on which I make a brand new tech stack.
+> Fork of the original project from BrazilJS [Conf Boilerplate](https://github.com/braziljs/conf-boilerplate) - which aims *"to help those people who wants to organize conferences/events and don't have too much time to create the website of it"* - on which I make a brand new tech stack.
 
 #### [xzibit](https://github.com/mabrasil/xzibit)
 
-It's a boilerplate to allow you to easily create modern presentations using Reveal.JS, Gulp, Jade, Stylus and more.
+> It's a boilerplate to allow you to easily create modern presentations using Reveal.JS, Gulp, Jade, Stylus and more.
 
 #### [Code Icons](https://github.com/mabrasil/codeicons)
 
-Code Icons is an icon set of 138 programming languages, frameworks, and coding tools.
+> Code Icons is an icon set of 138 programming languages, frameworks, and coding tools.
 
 #### [Milla Theme](https://github.com/mabrasil/milla-theme)
 
-A simple *(and alternative)* dark theme for SublimeText, Textmate and other text editors that uses a flat color palette.
-
-#### [Christmas Tree](https://github.com/mabrasil/christmas-tree)
-
-This project is a simple *image-free* Christmas tree to say *Merry Christmas!* to all my relatives and friends.
-
-#### [Happy New Year](https://github.com/mabrasil/happynewyear)
-
-A simple page to celebrate new year’s coming in a special way with my relatives and friends.
+> A simple *(and alternative)* dark theme for SublimeText, Textmate and other text editors that uses a flat color palette.
 
 ## Extras
 
