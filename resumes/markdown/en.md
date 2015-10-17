@@ -16,7 +16,7 @@
 
 I am a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-I started playing with programming at the age of 12 - not actually much ago - and since then I have played with a considerable amount of languages, from mainstream ones like Java, C#, Ruby, Python, Brainfuck -  yes, I think it's a mainstream one - and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+I started playing with programming at the age of 12 - not actually much ago - and since then I have played with a considerable amount of languages; from mainstream ones like Java, C#, Ruby, Python, Brainfuck -  yes, I think it's a mainstream one - and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
 
 I consider myself a *web alchemist* who is always trying new technologies and specially playing with cool stuff. Nowadays I try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
 
@@ -26,14 +26,14 @@ My passions include the full stack design and implementation of projects, open s
 
 ### Soft Skills
 
-- Problem-Solving Skills
-- Proactivity Attitude
-- Love for Open Source contributing
+- Problem-solving skills
+- Proactive attitude
+- Love for open source contributing
 - Love for spreading cool technologies
-- Public Speaking
-- Acting as a Team Player who has leadership spirit
-- Time Management Abilities
-- Ability to Accept and Learn From Criticism
+- Public speaking
+- Acting as a team player who has leadership spirit
+- Time management abilities
+- Ability to accept and learn from criticism
 - Flexibility/Adaptability
 
 ### Technical Skills
@@ -43,9 +43,9 @@ My passions include the full stack design and implementation of projects, open s
 - Markup
 
   - HTML(5) and its APIs
-  - JS Temaplating Engines
+  - JS Templating Engines
 
-    > Experience with Jade, Nunjucks, EJS.
+    > Jade, Nunjucks, EJS.
 
 - Styles
 
@@ -76,9 +76,11 @@ My passions include the full stack design and implementation of projects, open s
 
   > Coffeescript, Livescript, Typescript.
 
-- Mobile Development
+#### Mobile Development
 
-  > Hybrid apps Ionic and React Native.
+- Hybrid mobile apps
+
+  > Ionic, React Native.
 
 #### Back-End Development
 
@@ -130,7 +132,7 @@ My passions include the full stack design and implementation of projects, open s
 
 *2013* - *2017*
 
-> Student at a technical course in the area of Information Technology (IT) integrated to the high school, which aims training professionals to work directly with computer systems, including the efficient use, programming and support for equipment use.
+> Student at a technical course in the area of Information Technology (IT) integrated to the high school, which aims training professionals to work directly with computer systems, including the efficient use, programming and support.
 
 **English Language Basic Course** @ *Casa de Cultura Britânica (CCB) da Universidade Federal do Ceará (UFC)*
 
