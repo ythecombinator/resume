@@ -1,10 +1,10 @@
 # Matheus Albuquerque Brasil
 
-**Location:** Fortaleza, CE - Brazil
+**Location:** Fortaleza, CE ─ Brazil
 
 **Blog:** [matheusbrasil.com](http://matheusbrasil.com)
 
-**E-mail:** matheus.brasil10@gmail.com
+**E─mail:** matheus.brasil10@gmail.com
 
 **Github:** [mabrasil](https://github.com/mabrasil)
 
@@ -16,7 +16,7 @@
 
 I am a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-I started playing with programming at the age of 12 - not actually much ago - and since then I have played with a considerable amount of languages; from mainstream ones like Java, C#, Ruby, Python, Brainfuck -  yes, I think it's a mainstream one - and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+I started playing with programming at the age of 12 ─ not actually much ago ─ and since then I have played with a considerable amount of languages; from mainstream ones like Java, C#, Ruby, Python, Brainfuck ─ yes, I think it's a mainstream one ─ and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
 
 I consider myself a *web alchemist* who is always trying new technologies and specially playing with cool stuff. Nowadays I try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
 
@@ -26,7 +26,7 @@ My passions include the full stack design and implementation of projects, open s
 
 ### Soft Skills
 
-- Problem-solving skills
+- Problem─solving skills
 - Proactive attitude
 - Love for open source contributing
 - Love for spreading cool technologies
@@ -38,7 +38,7 @@ My passions include the full stack design and implementation of projects, open s
 
 ### Technical Skills
 
-#### Front-End Development & Tooling
+#### Front─End Development & Tooling
 
 - Markup
 
@@ -64,15 +64,15 @@ My passions include the full stack design and implementation of projects, open s
 
   >  Grunt, Gulp, NPM (as a build tool), Yeoman.
 
-- Javascript Frameworks
+- JavaScript Frameworks
 
   > AngularJS, EmberJS.
 
-- Javascript Libraries
+- JavaScript Libraries
 
   > jQuery, zepto, ReactJS etc.
 
-- Javascript Preprocessors
+- JavaScript Preprocessors
 
   > Coffeescript, Livescript, Typescript.
 
@@ -82,7 +82,7 @@ My passions include the full stack design and implementation of projects, open s
 
   > Ionic, React Native.
 
-#### Back-End Development
+#### Back─End Development
 
 - Node.js and its frameworks
 
@@ -106,11 +106,9 @@ My passions include the full stack design and implementation of projects, open s
 
 - TDD & BDD
 
-- Javascript Unit Testing
+- JavaScript unit testing
 
-- Front-End E2E Testing
-
-- Front-End A/B Testing
+- E2E & A/B front─end testing
 
 - Continous Integration
 
@@ -130,27 +128,27 @@ My passions include the full stack design and implementation of projects, open s
 
 **Computer Technician** @ *Instituto Federal de Educação, Ciência e Tecnologia do Ceará*
 
-*2013* - *2017*
+*2013* ─ *2017*
 
 > Student at a technical course in the area of Information Technology (IT) integrated to the high school, which aims training professionals to work directly with computer systems, including the efficient use, programming and support.
 
 **English Language Basic Course** @ *Casa de Cultura Britânica (CCB) da Universidade Federal do Ceará (UFC)*
 
-*2014* - *2016*
+*2014* ─ *2016*
 
-> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre-intermediate, intermediate).
+> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre─intermediate, intermediate).
 
 ### Finished Courses
 
-**Teens Level Course** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
+**Teens Level Course** @ *Instituto Brasil─Estados Unidos no Ceará (IBEU─CE)*
 
-*2010* - *2012*
+*2010* ─ *2012*
 
-> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre-intermediate, intermediate).
+> Student at a basic English course which develops skills in an integrated way to hear, speak, read and write at a basic level (elementary, pre─intermediate, intermediate).
 
 **Introductory Course in Robotics** @ *Instituto Brasileiro de Educação Profissional (IBEPRO)*
 
-*2012* - *2012*
+*2012* ─ *2012*
 
 > Student at a basic Robotics course which introduces many fundamental concepts of digital electronics.
 
@@ -158,15 +156,15 @@ My passions include the full stack design and implementation of projects, open s
 
 **2nd place** @ *III Startup Weekend Fortaleza*
 
-> I worked as a Front-End/Mobile developer in the project *Chego Lá* which is a solution for monitoring school performance that scored 2nd place in the [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
+> I worked as a front─end/mobile developer in the project *Chego Lá* which is a solution for monitoring school performance that scored 2nd place in the [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
 
 **2nd place** @ *I Feira de Hardware & Software (FHS) do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)*
 
-> I worked as a Full-Stack developer in the project *WebCampi* which is an innovative academic content sharing network that scored 2nd place in the Software category of an internal competition at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+> I worked as a full─stack developer in the project *WebCampi* which is an innovative academic content sharing network that scored 2nd place in the Software category of an internal competition at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
-**Top Student** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
+**Top Student** @ *Instituto Brasil─Estados Unidos no Ceará (IBEU─CE)*
 
-> Recognition for the outstanding result in the Teens Course at IBEU-SEDE (2012/2).
+> Recognition for the outstanding result in the Teens Course at IBEU─SEDE (2012/2).
 
 ## Projects
 
@@ -178,7 +176,7 @@ My passions include the full stack design and implementation of projects, open s
 
 #### [Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza)
 
-> A mobile app with all kinds of information about the biggest Front End event in Ceará, including the venue, speakers, schedule, sponsors, partners etc.
+> A mobile app with all kinds of information about the biggest front-end event in Ceará, including the venue, speakers, schedule, sponsors, partners etc.
 
 #### [Lumberpack](https://github.com/mabrasil/lumberpack)
 
@@ -186,7 +184,7 @@ My passions include the full stack design and implementation of projects, open s
 
 #### [Conf Boilerplate](https://github.com/mabrasil/conf-boilerplate)
 
-> Fork of the original project from BrazilJS [Conf Boilerplate](https://github.com/braziljs/conf-boilerplate) - which aims *"to help those people who wants to organize conferences/events and don't have too much time to create the website of it"* - on which I make a brand new tech stack.
+> Fork of the original project from BrazilJS [Conf Boilerplate](https://github.com/braziljs/conf-boilerplate) ─ which aims *"to help those people who wants to organize conferences/events and don't have too much time to create the website of it"* ─ on which I make a brand new tech stack.
 
 #### [xzibit](https://github.com/mabrasil/xzibit)
 
@@ -220,23 +218,23 @@ My passions include the full stack design and implementation of projects, open s
 
 #### [IX Pylestras](http://pylestras.org/evento/ix-pylestras/)
 
-- **Title:** *Aventurando-se com metadados: Micro Data e Open Graph*
+- **Title:** *Aventurando─se com metadados: Micro Data e Open Graph*
 - **When:** May, 30
-- **Where:** Universidade de Fortaleza - Unifor.
+- **Where:** Universidade de Fortaleza ─ Unifor.
 - **Attendees:** ≈40
 
 #### [I Ionic Meetup Fortaleza](http://www.meetup.com/pt/Ionic-Ceara/events/224620543/)
 
 - **Title:** *Um projeto mobile open source em duas semanas (ou uma talk sobre como melhorar seu workflow Ionic)*
 - **When:** August, 15
-- **Where:** Universidade de Fortaleza - Unifor.
+- **Where:** Universidade de Fortaleza ─ Unifor.
 - **Attendees:** ≈40
 
 #### [Unidev 2](http://unidevce.github.io/)
 
 - **Title:** *De volta para o futuro: funcional nos dias atuais*
 - **When:** September, 26
-- **Where:** Universidade de Fortaleza - Unifor.
+- **Where:** Universidade de Fortaleza ─ Unifor.
 - **Attendees:** ≈50
 
 ### Organizer at:
