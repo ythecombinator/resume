@@ -237,6 +237,13 @@ My passions include the full stack design and implementation of projects, open s
 - **Where:** Universidade de Fortaleza ─ Unifor.
 - **Attendees:** ≈50
 
+#### [SETIC 2015](http://unidevce.github.io/)
+
+- **Title:** *De volta para o futuro: funcional nos dias atuais*
+- **When:** October, 20
+- **Where:** Universidade Federal do Ceará - Campus do Pici.
+- **Attendees:** ≈30
+
 ### Organizer at:
 
 - [Ionic Meetup Fortaleza](http://ionicbrazil.com/)
