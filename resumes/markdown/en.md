@@ -12,7 +12,7 @@
 
 **Medium:** [Matheus Albuquerque](https://medium.com/@matheusalbuquerque)
 
-## About me
+## About Me
 
 I am a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
@@ -60,7 +60,7 @@ My passions include the full stack design and implementation of projects, open s
 
 - Responsive Design (Mobile First)
 
-- Workflow automation & scaffolding
+- Workflow Automation & Scaffolding
 
   >  Grunt, Gulp, NPM (as a build tool), Yeoman.
 
@@ -88,7 +88,7 @@ My passions include the full stack design and implementation of projects, open s
 
   > express.js, koa.js, meteor.js, Derby, ReactJS etc.
 
-#### Database management systems
+#### Database Management Systems
 
 - SGBDs
 
@@ -176,7 +176,7 @@ My passions include the full stack design and implementation of projects, open s
 
 #### [Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza)
 
-> A mobile app with all kinds of information about the biggest front-end event in Ceará, including the venue, speakers, schedule, sponsors, partners etc.
+> A mobile app with all kinds of information about the biggest front─end event in Ceará, including the venue, speakers, schedule, sponsors, partners etc.
 
 #### [Lumberpack](https://github.com/mabrasil/lumberpack)
 
