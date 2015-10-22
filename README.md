@@ -136,3 +136,17 @@ The tasks are:
 | `latex`    | Generate all *LaTeX* versions                |
 | `clean`    | Clean all generated versions                 |
 | `generate` | Generate all versions                        |
+
+#### Publishing at Github
+
+1. Create a GitHub repo for you CV.
+
+1. Do the steps from [Getting Started](#getting-started) section.
+
+1. Point the cloned repo to the repo you created:
+
+  ```sh
+  $ git remote set-url origin git@github.com:username/projectname.git
+  ```
+
+1. Change your data.
