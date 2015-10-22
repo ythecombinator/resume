@@ -1,10 +1,10 @@
 # Matheus Albuquerque Brasil
 
-**Localidade:** Fortaleza, CE ─ Brazil
+**Localidade:** Fortaleza, CE - Brazil
 
 **Blog:** [matheusbrasil.com](http://matheusbrasil.com)
 
-**E─mail:** matheus.brasil10@gmail.com
+**E-mail:** matheus.brasil10@gmail.com
 
 **Github:** [mabrasil](https://github.com/mabrasil)
 
@@ -14,13 +14,13 @@
 
 ## Sobre
 
-Eu sou um desenvolvedor Full─Stack que vive em [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
+Eu sou um desenvolvedor Full-Stack que vive em [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-Comecei a me interessar por programação aos 12 anos ─ não muito tempo atrás ─ e, desde então, estudei/experimentei um número considerável de linguagens de programação, indo desde as mais conhecidas, como Java, C#, Ruby, Python, Brainfuck ─ sim, essa é muito conhecida ─, e JavaScript, passando por voltadas ao paradigma funcional ─ como Haskell, Elixir, Erlang e Clojure ─ até algumas esotéricas, como Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+Comecei a me interessar por programação aos 12 anos - não muito tempo atrás - e, desde então, estudei/experimentei um número considerável de linguagens de programação, indo desde as mais conhecidas, como Java, C#, Ruby, Python, Brainfuck - sim, essa é muito conhecida -, e JavaScript, passando por voltadas ao paradigma funcional - como Haskell, Elixir, Erlang e Clojure - até algumas esotéricas, como Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
 
 Eu me considero um *alquimista da web* que está sempre testando novas tecnologias. Atualmente, tento ser o mais ativo o possível em comunidades locais como [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) entre outras.
 
-Minhas paixões incluem o design e implementação de projetos Full Stack, projetos de código aberto ─ e estilos como indie, rock e eletrônica. Eu também sou aluno do curso técnico em informática do Instituto Federal do Ceará.
+Minhas paixões incluem o design e implementação de projetos Full Stack, projetos de código aberto - e estilos como indie, rock e eletrônica. Eu também sou aluno do curso técnico em informática do Instituto Federal do Ceará.
 
 ## Habilidades
 
@@ -38,7 +38,7 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
 ### Técnicas
 
-#### Desenvolvimento e Instrumentação Front─End
+#### Desenvolvimento e Instrumentação Front-End
 
 - Linguagens de Marcação
 
@@ -58,7 +58,7 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
     > Bootstrap, Foundation.
 
-- Design Responsivo (Mobile─First)
+- Design Responsivo (Mobile-First)
 
 - Automação
 
@@ -80,7 +80,7 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
   > Aplicações Híbridas com Ionic e React Native.
 
-#### Desenvolvimento Back─End
+#### Desenvolvimento Back-End
 
 - Node.js e seus frameworks
 
@@ -106,7 +106,7 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
 - Testes unitários em JavaScript
 
-- Testes E2E & A/B em front─end
+- Testes E2E & A/B em front-end
 
 - Integração Contínua
 
@@ -126,27 +126,27 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
 **Técnico em Informática** @ *Instituto Federal de Educação, Ciência e Tecnologia do Ceará*
 
-*2013* ─ *2017*
+*2013* - *2017*
 
 > Aluno do curso técnico integrado ao Ensino Médio na área de Informática (TII) que forma profissionais para atuar diretamente com sistemas de informática, abrangendo a utilização eficiente, a programação e o suporte ao uso de equipamentos.
 
 **Curso Básico de Língua Inglesa** @ *Casa de Cultura Britânica (CCB) da Universidade Federal do Ceará (UFC)*
 
-*2014* ─ *2016*
+*2014* - *2016*
 
 > Aluno do curso da Casa de Cultura Britânica (CCB) que desenvolve de forma integrada as habilidades de ouvir, falar, ler e escrever em nível básico.
 
 ### Cursos Concluídos
 
-**Teens Level Course** @ *Instituto Brasil─Estados Unidos no Ceará (IBEU─CE)*
+**Teens Level Course** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
 
-*2010* ─ *2012*
+*2010* - *2012*
 
-> Aluno do curso do Instituto Brasil─Estados Unidos no Ceará (IBEU─CE) que desenvolve de forma integrada as habilidades de ouvir, falar, ler e escrever em nível básico.
+> Aluno do curso do Instituto Brasil-Estados Unidos no Ceará (IBEU-CE) que desenvolve de forma integrada as habilidades de ouvir, falar, ler e escrever em nível básico.
 
 **Curso Introdutório de Robótica** @ *Instituto Brasileiro de Educação Profissional (IBEPRO)*
 
-*2012* ─ *2012*
+*2012* - *2012*
 
 > Aluno em um curso básico de Robótica, que introduz muitos conceitos fundamentais da eletrônica digital.
 
@@ -154,15 +154,15 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
 **2º Colocado** @ *III Startup Weekend Fortaleza*
 
-> Trabalhei como desenvolvedor front─end/mobile no projeto *Chego Lá* que consiste em uma solução de monitoramento de rendimento escolar que ficou em 2º lugar na [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
+> Trabalhei como desenvolvedor front-end/mobile no projeto *Chego Lá* que consiste em uma solução de monitoramento de rendimento escolar que ficou em 2º lugar na [III Startup Weekend Fortaleza](http://www.up.co/communities/brazil/fortaleza/startup-weekend/4487).
 
 **2º Colocado** @ *I Feira de Hardware & Software (FHS) do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)*
 
-> Trabalhei como desenvolvedor full─stack no projeto *WebCampi*, que consiste em uma inovadora rede social de compartilhamento de conteúdo acadêmico que ficou em 2º lugar na categoria *Software* em uma feira interna do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+> Trabalhei como desenvolvedor full-stack no projeto *WebCampi*, que consiste em uma inovadora rede social de compartilhamento de conteúdo acadêmico que ficou em 2º lugar na categoria *Software* em uma feira interna do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
-**Top Student** @ *Instituto Brasil─Estados Unidos no Ceará (IBEU─CE)*
+**Top Student** @ *Instituto Brasil-Estados Unidos no Ceará (IBEU-CE)*
 
-> Reconhecimento pelo bom desempenho apresentado ao longo do Teens Course no IBEU─SEDE (2012/2).
+> Reconhecimento pelo bom desempenho apresentado ao longo do Teens Course no IBEU-SEDE (2012/2).
 
 ## Projetos
 
@@ -174,7 +174,7 @@ Alguns dos projetos em que eu já trabalhei.
 
 #### [Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza)
 
-> Um aplicativo móvel com todos os tipos de informações sobre o maior evento front─end no Ceará, incluindo o local, palestrantes, programação, patrocinadores, parceiros etc.
+> Um aplicativo móvel com todos os tipos de informações sobre o maior evento front-end no Ceará, incluindo o local, palestrantes, programação, patrocinadores, parceiros etc.
 
 #### [Lumberpack](https://github.com/mabrasil/lumberpack)
 
@@ -216,23 +216,23 @@ Alguns dos projetos em que eu já trabalhei.
 
 #### [IX Pylestras](http://pylestras.org/evento/ix-pylestras/)
 
-- **Título:** *Aventurando─se com metadados: Micro Data e Open Graph*
+- **Título:** *Aventurando-se com metadados: Micro Data e Open Graph*
 - **Quando:** 30 de Maio de 2015
-- **Onde:** Universidade de Fortaleza ─ Unifor.
+- **Onde:** Universidade de Fortaleza - Unifor.
 - **Presentes:** ≈40
 
 #### [I Ionic Meetup Fortaleza](http://www.meetup.com/pt/Ionic-Ceara/events/224620543/)
 
 - **Título:** *Um projeto mobile open source em duas semanas (ou uma talk sobre como melhorar seu workflow Ionic)*
 - **Quando:** 15 de Agosto de 2015
-- **Onde:** Universidade de Fortaleza ─ Unifor.
+- **Onde:** Universidade de Fortaleza - Unifor.
 - **Presentes:** ≈40
 
 #### [Unidev 2](http://unidevce.github.io/)
 
 - **Título:** *De volta para o futuro: funcional nos dias atuais*
 - **Quando:** 26 de Setembro de 2015
-- **Onde:** Universidade de Fortaleza ─ Unifor.
+- **Onde:** Universidade de Fortaleza - Unifor.
 - **Presentes:** ≈50
 
 #### [SETIC 2015](http://www.seti.ufc.br/)
