@@ -30,7 +30,7 @@ If you're not confortable with markdown, you can download it in other formats:
 - [English](resumes/latex/en.tex)
 - [Brazilian Portuguese](resumes/latex/pt.tex)
 
-## About This Project
+## About this Project
 
 ### Motivation
 
@@ -88,7 +88,7 @@ If everything from the [Getting Started](#getting-started) section goes well, yo
 
 Now let's find out what each one of those files and folders mean.
 
-> Note: Some very commom files - or less important - are not described here, such as the `.md` ones - *README*, *LICENSE* *CONTRIBUTING* - and others.
+> **Note:** Some very commom files - or less important - are not described here, such as the `.md` ones - *README*, *LICENSE* *CONTRIBUTING* - and others.
 
 ##### [`resumes/markdown/`](/resumes/markdown/)
 
@@ -113,3 +113,26 @@ Contains some scripts to make automation easier - like cleaning etc.
 ##### [`package.json`](package.json)
 
 Contains many metadata relevant to the project - like `npm run` scripts.
+
+#### Understand Tasks
+
+As I mentined before, automation here is done via *npm running*
+[package.json](package.json)'s `scripts` section. Each task can be run through:
+
+`npm run <task>`
+
+The tasks are:
+
+|    Task    |                 Description                  |
+|------------|----------------------------------------------|
+| `pdf:en`   | Generate English *PDF* version               |
+| `pdf:pt`   | Generate Portuguese *PDF* version            |
+| `pdf`      | Generate all *PDF* versions                  |
+| `word:en`  | Generate English *Microsoft Word* version    |
+| `word:pt`  | Generate Portuguese *Microsoft Word* version |
+| `word`     | Generate all *Microsoft Word* versions       |
+| `latex:en` | Generate English *LaTeX* version             |
+| `latex:pt` | Generate Portuguese *LaTeX* version          |
+| `latex`    | Generate all *LaTeX* versions                |
+| `clean`    | Clean all generated versions                 |
+| `generate` | Generate all versions                        |
