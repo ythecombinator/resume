@@ -30,7 +30,7 @@ If you're not confortable with markdown, you can download it in other formats:
 - [English](resumes/latex/en.tex)
 - [Brazilian Portuguese](resumes/latex/pt.tex)
 
-## About this project
+## About This Project
 
 ### Motivation
 
@@ -42,7 +42,9 @@ exactly what I expected.
 
 Then I thought about using the famous *Haskell-written* [pandoc](https://github.com/jgm/pandoc) + [npm scripts](https://docs.npmjs.com/misc/scripts) - and a bit of *JS* - for automation.
 
-### How to use
+### How to Use
+
+#### Getting Started
 
 1. Clone this repository:
 
@@ -67,3 +69,47 @@ Then I thought about using the famous *Haskell-written* [pandoc](https://github.
   ```sh
   $ npm run generate
   ```
+
+#### Understand the Folders and Files Structure
+
+If everything from the [Getting Started](#getting-started) section goes well, you should have this:
+
+```
+|-- lib/
+|-- resumes/
+|   |-- latex/
+|   |-- markdown/
+|   |-- pdf/
+|   |-- word/
+|-- .editorconfig
+|-- .gitignore
+|-- package.json
+```
+
+Now let's find out what each one of those files and folders mean.
+
+> Note: Some very commom files - or less important - are not described here, such as the `.md` ones - *README*, *LICENSE* *CONTRIBUTING* - and others.
+
+##### [`resumes/markdown/`](/resumes/markdown/)
+
+Contains the **original** *Markdown* resumés.
+
+##### [`resumes/latex/`](/resumes/images/)
+
+Contains the exported *LaTeX* (`.tex`) resumés.
+
+##### [`resumes/pdf/`](/resumes/pdf/)
+
+Contains the exported *PDF* resumés.
+
+##### [`resumes/word/`](/resumes/word/)
+
+Contains the exported *Microsoft Word* (`.docx`) resumés.
+
+##### [`lib/`](/lib/)
+
+Contains some scripts to make automation easier - like cleaning etc.
+
+##### [`package.json`](package.json)
+
+Contains many metadata relevant to the project - like `npm run` scripts.
