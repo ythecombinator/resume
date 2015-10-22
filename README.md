@@ -42,3 +42,28 @@ exactly what I expected.
 
 Then I thought about using the famous *Haskell-written* [pandoc](https://github.com/jgm/pandoc) + [npm scripts](https://docs.npmjs.com/misc/scripts) - and a bit of *JS* - for automation.
 
+### How to use
+
+1. Clone this repository:
+
+  ````sh
+  $ git clone https://github.com/mabrasil/resume.git
+  ```
+
+1. Make sure you have all the dependencies:
+
+  - [Pandoc](http://pandoc.org/installing.html)
+  - [Node.js](https://nodejs.org/en/)
+  - [del](https://github.com/sindresorhus/del) as a *CLI tool*
+
+1. Go to the project's root:
+
+  ```sh
+  $ cd resume
+  ```
+
+1. Run the `generate` script:
+
+  ```sh
+  $ npm run generate
+  ```
