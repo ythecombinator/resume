@@ -4,18 +4,26 @@
   "description": "My resume in a few formats.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "lsc --no-header -b -c -o ./lib src/",
-    "start": "node lib/index.js",
-    "test": ""
+
+    "pdf:en": "pandoc -s resumes/markdown/en.md --latex-engine=xelatex -o resumes/pdf/en.pdf",
+    "pdf:pt": "pandoc -s resumes/markdown/pt.md --latex-engine=xelatex -o resumes/pdf/pt.pdf",
+    "pdf": "npm run pdf:en && npm run pdf:pt",
+
+    "word:en": "pandoc -s resumes/markdown/en.md -o resumes/word/en.docx",
+    "word:pt": "pandoc -s resumes/markdown/pt.md -o resumes/word/pt.docx",
+    "word": "npm run word:en && npm run word:pt",
+
+    "latex:en": "pandoc -s resumes/markdown/en.md -o resumes/latex/en.tex",
+    "latex:pt": "pandoc -s resumes/markdown/pt.md -o resumes/latex/pt.tex",
+    "latex": "npm run latex:en && npm run latex:pt",
+
+    "clean": "node lib/clean.js",
+    "generate": "npm run clean && npm run pdf && npm run word && npm run latex && node lib/log.js"
+
   },
   "dependencies": {
-    "github-markdown-css": "^2.0.11",
-    "markdown-pdf": "^5.3.0"
   },
-  "devDependencies": {
-    "browser-sync": "2.8.0",
-    "livescript": "^1.4.0"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mabrasil/resume.git"
@@ -24,7 +32,9 @@
     "Resume",
     "Curriculum",
     "Markdown",
-    "PDF"
+    "PDF",
+    "Word",
+    "LaTex"
   ],
   "author": "Matheus Brasil",
   "license": "MIT",
