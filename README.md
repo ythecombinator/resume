@@ -150,3 +150,13 @@ The tasks are:
   ```
 
 1. Change your data.
+
+### Contributing
+
+Contributions are very welcome! If you'd like to contribute, these
+[guidelines](CONTRIBUTING.md) may help you.
+
+### License
+
+- The project itself is distributed under the MIT License, available in this repository.
+- My resumé - and everything in it - is distributed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
