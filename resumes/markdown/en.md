@@ -205,42 +205,42 @@ My passions include the full stack design and implementation of projects, open s
 #### [FLISOL 2015](http://flisolce.org/)
 
 - **Title:** *Uma Introdução a Git & Github*
-- **When:** April, 25
+- **When:** April 25, 2015
 - **Where:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Fortaleza.
 - **Attendees:** ≈60
 
 #### [3º CocoaHeads Fortaleza](http://www.cocoaheads.com.br/agendas/detalhes/79/)
 
 - **Title:** *Aplicações Híbridas com Ionic*
-- **When:** May, 28
+- **When:** May 28, 2015
 - **Where:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Fortaleza.
 - **Attendees:** ≈40
 
 #### [IX Pylestras](http://pylestras.org/evento/ix-pylestras/)
 
 - **Title:** *Aventurando─se com metadados: Micro Data e Open Graph*
-- **When:** May, 30
+- **When:** May 30, 2015
 - **Where:** Universidade de Fortaleza ─ Unifor.
 - **Attendees:** ≈40
 
 #### [I Ionic Meetup Fortaleza](http://www.meetup.com/pt/Ionic-Ceara/events/224620543/)
 
 - **Title:** *Um projeto mobile open source em duas semanas (ou uma talk sobre como melhorar seu workflow Ionic)*
-- **When:** August, 15
+- **When:** August 15, 2015
 - **Where:** Universidade de Fortaleza ─ Unifor.
 - **Attendees:** ≈40
 
 #### [Unidev 2](http://unidevce.github.io/)
 
 - **Title:** *De volta para o futuro: funcional nos dias atuais*
-- **When:** September, 26
+- **When:** September 26, 2015
 - **Where:** Universidade de Fortaleza ─ Unifor.
 - **Attendees:** ≈50
 
-#### [SETIC 2015](http://unidevce.github.io/)
+#### [SETIC 2015](http://www.seti.ufc.br/)
 
 - **Title:** *De volta para o futuro: funcional nos dias atuais*
-- **When:** October, 20
+- **When:** October 20, 2015
 - **Where:** Universidade Federal do Ceará - Campus do Pici.
 - **Attendees:** ≈30
 
