@@ -29,3 +29,16 @@ If you're not confortable with markdown, you can download it in other formats:
 
 - [English](resumes/latex/en.tex)
 - [Brazilian Portuguese](resumes/latex/pt.tex)
+
+## About this project
+
+### Motivation
+
+When I started doing my CV, I had one requirement: I wanted to write only markdown
+and I wanted it to be exported to formats like `.pdf`. As a *node-tooling-addicted*,
+I searched for node.js-based tools to help me. I found some node modules which can make it,
+like [markdown-pdf](https://github.com/alanshaw/markdown-pdf), but the results werem't
+exactly what I expected.
+
+Then I thought about using the famous *Haskell-written* [pandoc](https://github.com/jgm/pandoc) + [npm scripts](https://docs.npmjs.com/misc/scripts) - and a bit of *JS* - for automation.
+
