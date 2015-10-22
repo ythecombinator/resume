@@ -3,7 +3,20 @@
 > Pretty much of a normal resumé written in plain *markdown* and generated in
 other formats like `.pdf`, `.docx` and `.tex`.
 
-## About me
+## Table of Contents
+
+- [About Me](#about-me)
+- [About this Project](#about-this-project)
+  - [Motivation](#motivation)
+  - [How to Use](#how-to-use)
+    - [Getting Started](#getting-started)
+    - [Understand the Folders and Files Structure](#understand-the-folders-and-files-structure)
+    - [Understand Tasks](#understand-tasks)
+    - [Publishing at Github](#publishing-at-github)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+## About Me
 
 Hey, my name's Matheus :)
 
