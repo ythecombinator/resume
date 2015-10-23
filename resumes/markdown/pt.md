@@ -2,6 +2,8 @@
 
 **Localidade:** Fortaleza, CE - Brazil
 
+**Telefone**: +55 (85) 99644-1530
+
 **Blog:** [matheusbrasil.com](http://matheusbrasil.com)
 
 **E-mail:** matheus.brasil10@gmail.com
@@ -14,13 +16,13 @@
 
 ## Sobre
 
-Eu sou um desenvolvedor Full-Stack que vive em [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
+Desenvolvedor Full-Stack que vive em [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-Comecei a me interessar por programação aos 12 anos - não muito tempo atrás - e, desde então, estudei/experimentei um número considerável de linguagens de programação, indo desde as mais conhecidas, como Java, C#, Ruby, Python, Brainfuck - sim, essa é muito conhecida -, e JavaScript, passando por voltadas ao paradigma funcional - como Haskell, Elixir, Erlang e Clojure - até algumas esotéricas, como Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+Comecei a me interessar por programação aos 12 anos e, desde então, estudei/experimentei um número considerável de linguagens de programação, indo desde as mais conhecidas, como Java, C#, Ruby, Python e JavaScript, passando por voltadas ao paradigma funcional - como Haskell, Elixir, Erlang e Clojure - até algumas esotéricas, como Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
 
-Eu me considero um *alquimista da web* que está sempre testando novas tecnologias. Atualmente, tento ser o mais ativo o possível em comunidades locais como [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) entre outras.
+Eu me considero um *alquimista da web* que está sempre testando novas tecnologias. Atualmente, sou aluno do curso técnico em informática do Instituto Federal do Ceará (IFCE) e tento ser o mais ativo o possível em comunidades locais como [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) entre outras.
 
-Minhas paixões incluem o design e implementação de projetos Full Stack, projetos de código aberto - e estilos como indie, rock e eletrônica. Eu também sou aluno do curso técnico em informática do Instituto Federal do Ceará.
+Minhas paixões incluem o design e implementação de projetos Full Stack, projetos de código aberto e comunidades de tecnologias.
 
 ## Habilidades
 

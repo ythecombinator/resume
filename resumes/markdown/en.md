@@ -2,6 +2,8 @@
 
 **Location:** Fortaleza, CE - Brazil
 
+**Phone Number**: +55 (85) 99644-1530
+
 **Blog:** [matheusbrasil.com](http://matheusbrasil.com)
 
 **E-mail:** matheus.brasil10@gmail.com
@@ -16,11 +18,11 @@
 
 I am a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-I started playing with programming at the age of 12 - not actually much ago - and since then I have played with a considerable amount of languages; from mainstream ones like Java, C#, Ruby, Python, Brainfuck - yes, I think it's a mainstream one - and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+I started playing with programming at the age of 12 and since then I have played with a considerable amount of languages; from mainstream ones like Java, C#, Ruby, Python and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
 
-I consider myself a *web alchemist* who is always trying new technologies and specially playing with cool stuff. Nowadays I try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
+I consider myself a *web alchemist* who is always trying new technologies and specially playing with cool stuff. Nowadays I study IT at Instituto Federal do Ceará and try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
 
-My passions include the full stack design and implementation of projects, open source stuff, indie, electronic & rock music. I also study IT at Instituto Federal do Ceará.
+My passions include the full stack design and implementation of projects, open source stuff and programming communities.
 
 ## Skills
 
