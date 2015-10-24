@@ -12,13 +12,11 @@
 
 **LinkedIn:** [Matheus Albuquerque](https://www.linkedin.com/in/matheusalbuquerque)
 
-**Medium:** [Matheus Albuquerque](https://medium.com/@matheusalbuquerque)
-
 ## About Me
 
 I am a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-I started playing with programming at the age of 12 and since then I have played with a considerable amount of languages; from mainstream ones, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+I started playing with programming at the age of 12 and since then I have played with a considerable amount of languages; from mainstream ones, going through functional to really esoteric ones.
 
 I consider myself a *web alchemist* who is always trying new technologies and specially playing with cool stuff. Nowadays I study IT at Instituto Federal do Ceará and try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
 
