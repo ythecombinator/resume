@@ -78,9 +78,11 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
   > CoffeeScript, LiveScript, TypeScript.
 
-- Desenvolvimento Mobile
+#### Desenvolvimento Mobile
 
-  > Aplicações Híbridas com Ionic e React Native.
+- Aplicações Híbridas
+
+  > Ionic, React Native.
 
 #### Desenvolvimento Back-End
 
@@ -118,7 +120,7 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
   > Nível nativo.
 
-- English
+- Inglês
 
   > Nível avançado de proficiência.
 
