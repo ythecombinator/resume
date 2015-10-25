@@ -52,6 +52,8 @@ My passions include the full stack design and implementation of projects, open s
 
 - Database Management Systems
 
+  > SGBDs & NoSQL.
+
 - Software Versioning
 
   > Git & social coding via Github
