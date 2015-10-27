@@ -1,5 +1,6 @@
 ### Folders ###
 node_modules
+pdf./
 
 ### Files ###
 **/npm-debug.log
