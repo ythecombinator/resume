@@ -16,9 +16,7 @@
 
 Desenvolvedor Full-Stack que vive em [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-Comecei a me interessar por programação aos 12 anos e, desde então, estudei/experimentei um número considerável de linguagens de programação, indo desde as mais conhecidas, passando por voltadas ao paradigma funcional até algumas esotéricas.
-
-Eu me considero um *alquimista da web* que está sempre testando novas tecnologias. Atualmente, sou aluno do curso técnico em informática do Instituto Federal do Ceará (IFCE) e tento ser o mais ativo o possível em comunidades locais como [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) entre outras.
+Eu me considero um *alquimista da web* que está sempre testando novas tecnologias. Atualmente, sou aluno do curso técnico em informática do Instituto Federal do Ceará (IFCE) e tento ser o mais ativo o possível em comunidades locais, como [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) entre outras.
 
 Minhas paixões incluem o design e implementação de projetos Full Stack, projetos de código aberto e comunidades de tecnologias.
 
@@ -34,39 +32,35 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 - Trabalhar em equipe
 - Saber gerenciar o tempo
 - Habilidade de aceitar e aprender com críticas
-- Flixibilidade/Fácil adaptação
+- Flexibilidade/Fácil adaptação
 
 ### Técnicas
 
 - Desenvolvimento e Instrumentação Front-End
 
-  > Linguagens de Marcação, Estilização, Design Responsivo (Mobile-First), Automação, Frameworks JavaScript, Bibliotecas JavaScript,  Pré-processadores JavaScript.
+> Linguagens de Marcação, Estilização, Design Responsivo (Mobile-First), Automação, Frameworks JavaScript, Bibliotecas JavaScript,  Pré-processadores JavaScript.
 
 - Desenvolvimento Mobile
 
-  > Aplicações Híbridas baseadas em tecnologias web.
+> Aplicações Híbridas baseadas em tecnologias web.
 
 - Back-End Development
 
-  > Node.js e seus frameworks.
-
-- Bancos de Dados
-
-  > SGBDs e NoSQL.
+> Node.js e seus frameworks.
 
 - Versionamento de Software
 
-  > Git e social coding via Github.
+> Git e social coding via Github.
 
 - Teste de Sofware e Devops
 
-  > TDD & BDD, Testes unitários em JavaScript, Testes E2E & A/B em front-end, Integração Contínua.
+> Testes unitários em JavaScript, Testes E2E & A/B em front-end, Integração Contínua.
 
 ### Idiomas
 
 - Português (Nativo)
 
-- English (Nível avançado de proficiência)
+- Inglês (Nível básico/intermediário de proficiência)
 
 ## Educação
 
@@ -92,7 +86,7 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
 ## Projetos
 
-Alguns dos projetos em que eu já trabalhei.
+Alguns dos projetos em que eu já trabalhei:
 
 - [Conf App Boilerplate](https://github.com/devevents/conf-app-boilerplate)
 - [Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza)
