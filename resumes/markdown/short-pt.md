@@ -1,6 +1,6 @@
 # Matheus Albuquerque Brasil
 
-**Localidade:** Fortaleza, CE - Brazil
+**Localidade:** Fortaleza, CE - Brasil
 
 **Telefone**: +55 (85) 99644-1530
 
@@ -54,7 +54,7 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
 - Teste de Sofware e Devops
 
-> Testes unitários em JavaScript, Testes E2E & A/B em front-end, Integração Contínua.
+> TDD & BDD, Testes unitários em JavaScript, Testes E2E & A/B em front-end, Integração Contínua.
 
 ### Idiomas
 

@@ -1,6 +1,6 @@
 # Matheus Albuquerque Brasil
 
-**Localidade:** Fortaleza, CE - Brazil
+**Localidade:** Fortaleza, CE - Brasil
 
 **Telefone**: +55 (85) 99644-1530
 
@@ -18,7 +18,7 @@
 
 Desenvolvedor Full-Stack que vive em [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-Comecei a me interessar por programação aos 12 anos e, desde então, estudei/experimentei um número considerável de linguagens de programação, indo desde as mais conhecidas, como Java, C#, Ruby, Python e JavaScript, passando por voltadas ao paradigma funcional - como Haskell, Elixir, Erlang e Clojure - até algumas esotéricas, como Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+Comecei a me interessar por programação há quatro anos e, desde então, estudei/experimentei algumas linguagens de programação, indo desde as mais conhecidas, como Java, Ruby, Python e JavaScript, passando por voltadas ao paradigma funcional - como Haskell, Elixir, Erlang e Clojure - até algumas esotéricas, como Shakespeare, LOLCODE etc.
 
 Eu me considero um *alquimista da web* que está sempre testando novas tecnologias. Atualmente, sou aluno do curso técnico em informática do Instituto Federal do Ceará (IFCE) e tento ser o mais ativo o possível em comunidades locais como [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) entre outras.
 
@@ -36,7 +36,7 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 - Trabalhar em equipe
 - Saber gerenciar o tempo
 - Habilidade de aceitar e aprender com críticas
-- Flixibilidade/Fácil adaptação
+- Flexibilidade/Fácil adaptação
 
 ### Técnicas
 
@@ -47,66 +47,64 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
   - HTML(5) e suas APIs
   - Templating Engines JavaScript
 
-    > Jade, Nunjucks, EJS.
+  > Jade, Nunjucks, EJS.
 
 - Estilização
 
   - CSS(3)
   - Pré-processadores CSS
 
-    > Stylus, Sass, Less.
+  > Stylus, Sass, Less.
 
   - Frameworks CSS
 
-    > Bootstrap, Foundation.
+  > Bootstrap, Foundation.
 
 - Design Responsivo (Mobile-First)
 
-- Automação
+- Automação e Scaffolding
 
-  > Grunt, Gulp, NPM (para automação), Yeoman.
+> Grunt, Gulp, NPM (para automação), Yeoman.
 
 - Frameworks JavaScript
 
-  > AngularJS, EmberJS.
+> AngularJS, EmberJS.
 
 - Bibliotecas JavaScript
 
-  > jQuery, zepto, ReactJS etc.
+> jQuery, zepto, ReactJS etc.
 
 - Pré-processadores JavaScript
 
-  > CoffeeScript, LiveScript, TypeScript.
+> CoffeeScript, LiveScript, TypeScript.
 
 #### Desenvolvimento Mobile
 
 - Aplicações Híbridas
 
-  > Ionic, React Native.
+> Ionic, React Native.
 
 #### Desenvolvimento Back-End
 
 - Node.js e seus frameworks
 
-  > express.js, koa.js, meteor.js, Derby, ReactJS etc.
+> express.js, koa.js, meteor.js, Derby, ReactJS etc.
 
-#### Bancos de Dados
+- Bancos de Dados
 
-- SGBDs
+  - SGBDs
 
   > MySQL, Postgres.
 
-- NoSQL
+  -  NoSQL
 
   > MongoDB, LevelDB.
 
 #### Versionamento de Software
 
-  > Git e social coding via Github
+> Git e social coding via Github.
 
 #### Teste de Sofware e Devops
-
-- TDD & BDD
 
 - Testes unitários em JavaScript
 
@@ -118,11 +116,11 @@ Minhas paixões incluem o design e implementação de projetos Full Stack, proje
 
 - Português
 
-  > Nível nativo.
+> Nível nativo.
 
 - Inglês
 
-  > Nível avançado de proficiência.
+> Nível básico/intermediário de proficiência.
 
 ## Educação
 
