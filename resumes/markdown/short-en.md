@@ -16,8 +16,6 @@
 
 I am a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-I started playing with programming at the age of 12 and since then I have played with a considerable amount of languages; from mainstream ones, going through functional to really esoteric ones.
-
 I consider myself a *web alchemist* who is always trying new technologies and specially playing with cool stuff. Nowadays I study IT at Instituto Federal do Ceará and try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
 
 My passions include the full stack design and implementation of projects, open source stuff and programming communities.
@@ -40,27 +38,27 @@ My passions include the full stack design and implementation of projects, open s
 
 - Front-End Development & Tooling
 
-  > Markup, Styles, Responsive Design (Mobile First), Workflow Automation & Scaffolding, JavaScript Frameworks, JavaScript Libraries, JavaScript Preprocessors
+> Markup, Styles, Responsive Design (Mobile First), Workflow Automation & Scaffolding, JavaScript Frameworks, JavaScript Libraries, JavaScript Preprocessors
 
 - Mobile Development
 
-  > Web-technologies-based hybrid mobile apps.
+> Web-technologies-based hybrid mobile apps.
 
 - Back-End Development
 
-  > Node.js and its frameworks
+> Node.js and its frameworks
 
 - Database Management Systems
 
-  > SGBDs & NoSQL.
+> SGBDs & NoSQL.
 
 - Software Versioning
 
-  > Git & social coding via Github
+> Git & social coding via Github
 
 - Software Testing & Devops
 
-  > TDD & BDD, JavaScript unit testing, E2E & A/B front-end testing, Continous Integration
+> TDD & BDD, JavaScript unit testing, E2E & A/B front-end testing, Continous Integration
 
 ### Languages
 
@@ -92,7 +90,7 @@ My passions include the full stack design and implementation of projects, open s
 
 ## Projects
 
-> Some of the projects in which I've already worked.
+> Some of the projects on which I've already worked.
 
 - [Conf App Boilerplate](https://github.com/devevents/conf-app-boilerplate)
 - [Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza)

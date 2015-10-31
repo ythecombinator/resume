@@ -18,7 +18,7 @@
 
 I am a full stack developer who lives in [Fortaleza, CE](http://pt.wikipedia.org/wiki/Fortaleza).
 
-I started playing with programming at the age of 12 and since then I have played with a considerable amount of languages; from mainstream ones like Java, C#, Ruby, Python and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
+I have started playing with programming since four years ago and I have played with some languages; from mainstream ones like Java, C#, Ruby, Python and JavaScript, going through functional ones like Haskell, Elixir, Erlang and Clojure to really esoteric ones like Shakespeare, LOLCODE, 4Lang, ZOMBIE etc.
 
 I consider myself a *web alchemist* who is always trying new technologies and specially playing with cool stuff. Nowadays I study IT at Instituto Federal do Ceará and try to be as active as possible at local communities like [Dev I/O Fortaleza](https://www.facebook.com/groups/fortalezadevelopers/), [Ionic Brazil](http://ionicbrazil.com/), [The Lambda I/O Foundation](https://github.com/lambda-io), [JS4Girls Fortaleza](http://js4girls-fortaleza.github.io/) and other ones.
 
@@ -47,62 +47,62 @@ My passions include the full stack design and implementation of projects, open s
   - HTML(5) and its APIs
   - JS Templating Engines
 
-    > Jade, Nunjucks, EJS.
+  > Jade, Nunjucks, EJS.
 
 - Styles
 
   - CSS(3)
   - CSS Preprocessors
 
-    > Stylus, Sass, Less.
+  > Stylus, Sass, Less.
 
   - CSS Frameworks
 
-    > Bootstrap, Foundation.
+  > Bootstrap, Foundation.
 
 - Responsive Design (Mobile First)
 
 - Workflow Automation & Scaffolding
 
-  >  Grunt, Gulp, NPM (as a build tool), Yeoman.
+>  Grunt, Gulp, NPM (as a build tool), Yeoman.
 
 - JavaScript Frameworks
 
-  > AngularJS, EmberJS.
+> AngularJS, EmberJS.
 
 - JavaScript Libraries
 
-  > jQuery, zepto, ReactJS etc.
+> jQuery, zepto, ReactJS etc.
 
 - JavaScript Preprocessors
 
-  > Coffeescript, Livescript, Typescript.
+> Coffeescript, Livescript, Typescript.
 
 #### Mobile Development
 
 - Hybrid mobile apps
 
-  > Ionic, React Native.
+> Ionic, React Native.
 
 #### Back-End Development
 
 - Node.js and its frameworks
 
-  > express.js, koa.js, meteor.js, Derby, ReactJS etc.
+> express.js, koa.js, meteor.js, Derby, ReactJS etc.
 
 #### Database Management Systems
 
 - SGBDs
 
-  > MySQL, Postgres.
+> MySQL, Postgres.
 
 - NoSQL
 
-  > MongoDB, LevelDB.
+> MongoDB, LevelDB.
 
 #### Software Versioning
 
-  > Git & social coding via Github
+> Git & social coding via Github
 
 #### Software Testing & Devops
 
@@ -118,11 +118,11 @@ My passions include the full stack design and implementation of projects, open s
 
 - Portuguese
 
-  > Native speaker.
+> Native speaker.
 
 - English
 
-  > Advanced level of proficiency.
+> Advanced level of proficiency.
 
 ## Education
 
