@@ -150,7 +150,8 @@ The tasks are:
 | `latex:pt` | Generate Portuguese *LaTeX* version          |
 | `latex`    | Generate all *LaTeX* versions                |
 | `clean`    | Clean all generated versions                 |
-| `generate` | Generate all versions                        |
+| `publish`  | Publish everithing to a GitHub repo          |
+| `generate` | Generate all versions a publish them         |
 
 #### Publishing at Github
 
@@ -165,6 +166,12 @@ The tasks are:
   ```
 
 1. Change your data.
+
+1. Run:
+
+  ```sh
+  $ npm run generate
+  ```
 
 ### Contributing
 
