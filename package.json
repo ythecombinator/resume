@@ -18,7 +18,7 @@
     "latex": "npm run latex:en && npm run latex:pt",
 
     "clean": "node lib/clean.js",
-    "publish": "git add . && git commit -m \"Deploying generated versions to GitHub at [timestamp] \" && git push origin master",
+    "publish": "git add . && git commit -m \"Deploying generated versions to GitHub \" && git push origin master",
     "generate": "npm run clean && npm run pdf && npm run word && npm run latex && npm run publish && node lib/log.js"
 
   },
